@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvisionSecondCompactClien
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecuteSecondCompactSync", "ExecuteSecondCompactSync\ExecuteSecondCompactSync.csproj", "{CF67FF2E-11FF-476F-AD18-7E021A977544}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvisionServerWithFilteredScope", "ProvisionServerWithFilteredScope\ProvisionServerWithFilteredScope.csproj", "{12976633-0A96-42EE-8BA5-73B672F574CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{CF67FF2E-11FF-476F-AD18-7E021A977544}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF67FF2E-11FF-476F-AD18-7E021A977544}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF67FF2E-11FF-476F-AD18-7E021A977544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12976633-0A96-42EE-8BA5-73B672F574CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12976633-0A96-42EE-8BA5-73B672F574CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12976633-0A96-42EE-8BA5-73B672F574CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12976633-0A96-42EE-8BA5-73B672F574CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
